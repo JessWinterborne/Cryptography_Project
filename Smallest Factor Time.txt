@@ -1,0 +1,192 @@
+New test done with time limit: 900s
+Bit length: 16 	 Run time: 0.007730900775641203
+Bit length: 17 	 Run time: 0.015132882632315159
+Bit length: 18 	 Run time: 0.03571853321045637
+Bit length: 19 	 Run time: 0.06601770780980587
+Bit length: 20 	 Run time: 0.15822657430544496
+Bit length: 21 	 Run time: 0.21223967568948865
+Bit length: 22 	 Run time: 0.5381990037858486
+Bit length: 23 	 Run time: 0.9645491652190685
+Bit length: 24 	 Run time: 1.5980321522802114
+Bit length: 25 	 Run time: 3.411631004884839
+Bit length: 26 	 Run time: 5.94340221490711
+Bit length: 27 	 Run time: 12.765390008687973
+Bit length: 28 	 Run time: 25.650476183742285
+Bit length: 29 	 Run time: 56.078653163742274
+Bit length: 30 	 Run time: 101.74878327501938
+Bit length: 31 	 Run time: 245.2545054750517
+Bit length: 32 	 Run time: 504.43824714794755
+Bit length: 33 	 Run time: 2005.2869917261414
+
+New test done with time limit: 900s
+Bit length: 16 	 Run time: 0.007196594960987568
+Bit length: 17 	 Run time: 0.014173530042171478
+Bit length: 18 	 Run time: 0.04152520000934601
+Bit length: 19 	 Run time: 0.04705673595890403
+Bit length: 20 	 Run time: 0.1544827506877482
+Bit length: 21 	 Run time: 0.29946562368422747
+Bit length: 22 	 Run time: 0.4237549970857799
+Bit length: 23 	 Run time: 1.0234479210339487
+Bit length: 24 	 Run time: 1.625413458328694
+Bit length: 25 	 Run time: 3.080572442151606
+Bit length: 26 	 Run time: 6.179602399934083
+Bit length: 27 	 Run time: 12.135541984345764
+Bit length: 28 	 Run time: 34.85385664086789
+Bit length: 29 	 Run time: 69.72126154322177
+Bit length: 30 	 Run time: 127.49617519415915
+Bit length: 31 	 Run time: 332.29339722916484
+Bit length: 32 	 Run time: 603.6924047148786
+Bit length: 33 	 Run time: 1674.4327590563335
+
+New test done with time limit: 900s
+Bit length: 16 	 Run time: 0.017556416802108288
+Bit length: 17 	 Run time: 0.019910461734980345
+Bit length: 18 	 Run time: 0.06005906127393246
+Bit length: 19 	 Run time: 0.05769250588491559
+Bit length: 20 	 Run time: 0.1636226000264287
+Bit length: 21 	 Run time: 0.23013572860509157
+Bit length: 22 	 Run time: 0.579615349881351
+Bit length: 23 	 Run time: 1.0214899368584156
+Bit length: 24 	 Run time: 2.2458282811567187
+Bit length: 25 	 Run time: 4.566014536190778
+Bit length: 26 	 Run time: 8.907760073896497
+Bit length: 27 	 Run time: 14.445028058253229
+Bit length: 28 	 Run time: 37.70116226701066
+Bit length: 29 	 Run time: 83.84180651511997
+Bit length: 30 	 Run time: 137.60302029876038
+Bit length: 31 	 Run time: 346.6510638752952
+Bit length: 32 	 Run time: 554.6120521239936
+Bit length: 33 	 Run time: 1522.1549792210571
+
+New test done with time limit: 900s
+Bit length: 16 	 Run time: 0.010629206895828247
+Bit length: 17 	 Run time: 0.03100887406617403
+Bit length: 18 	 Run time: 0.05923553183674812
+Bit length: 19 	 Run time: 0.05951062310487032
+Bit length: 20 	 Run time: 0.13957928027957678
+Bit length: 21 	 Run time: 0.3192406389862299
+Bit length: 22 	 Run time: 0.481752946972847
+Bit length: 23 	 Run time: 0.8421714650467038
+Bit length: 24 	 Run time: 1.6715915510430932
+Bit length: 25 	 Run time: 5.630428024102002
+Bit length: 26 	 Run time: 6.053322742227465
+Bit length: 27 	 Run time: 18.629271839745343
+Bit length: 28 	 Run time: 24.579841365106404
+Bit length: 29 	 Run time: 51.211055702064186
+Bit length: 30 	 Run time: 139.79379391577095
+Bit length: 31 	 Run time: 211.5304965279065
+Bit length: 32 	 Run time: 736.7491112812422
+Bit length: 33 	 Run time: 1145.3550332109444
+
+New test done with time limit: 900s
+Bit length: 16 	 Run time: 0.01171344518661499
+Bit length: 17 	 Run time: 0.01913541369140148
+Bit length: 18 	 Run time: 0.027639174833893776
+Bit length: 19 	 Run time: 0.04734171973541379
+Bit length: 20 	 Run time: 0.11228102911263704
+Bit length: 21 	 Run time: 0.34276025323197246
+Bit length: 22 	 Run time: 0.4401827109977603
+Bit length: 23 	 Run time: 1.2022027159109712
+Bit length: 24 	 Run time: 2.552269607782364
+Bit length: 25 	 Run time: 3.4543361118994653
+Bit length: 26 	 Run time: 9.25741990795359
+Bit length: 27 	 Run time: 20.180795701686293
+Bit length: 28 	 Run time: 32.602491156663746
+Bit length: 29 	 Run time: 60.97919758595526
+Bit length: 30 	 Run time: 114.69023796496913
+Bit length: 31 	 Run time: 256.4184796665795
+Bit length: 32 	 Run time: 975.1042172438465
+
+New test done with time limit: 900s
+Bit length: 16 	 Run time: 0.006644913926720619
+Bit length: 17 	 Run time: 0.02448810636997223
+Bit length: 18 	 Run time: 0.042938325088471174
+Bit length: 19 	 Run time: 0.06603235891088843
+Bit length: 20 	 Run time: 0.16086861910298467
+Bit length: 21 	 Run time: 0.20816747192293406
+Bit length: 22 	 Run time: 0.4698666729964316
+Bit length: 23 	 Run time: 0.7641457486897707
+Bit length: 24 	 Run time: 1.7429021950811148
+Bit length: 25 	 Run time: 4.92439398355782
+Bit length: 26 	 Run time: 9.75281428406015
+Bit length: 27 	 Run time: 15.033315083011985
+Bit length: 28 	 Run time: 28.749968913849443
+Bit length: 29 	 Run time: 57.3747041602619
+Bit length: 30 	 Run time: 94.0227211881429
+Bit length: 31 	 Run time: 444.33619080809876
+Bit length: 32 	 Run time: 521.2182202022523
+Bit length: 33 	 Run time: 1165.3955859686248
+
+New test done with time limit: 900s
+Bit length: 16 	 Run time: 0.013867922127246857
+Bit length: 17 	 Run time: 0.021354604046791792
+Bit length: 18 	 Run time: 0.04672005120664835
+Bit length: 19 	 Run time: 0.05619586864486337
+Bit length: 20 	 Run time: 0.10836553573608398
+Bit length: 21 	 Run time: 0.22234045900404453
+Bit length: 22 	 Run time: 0.552872144151479
+Bit length: 23 	 Run time: 0.8233861969783902
+Bit length: 24 	 Run time: 1.762253066059202
+Bit length: 25 	 Run time: 4.945683227851987
+Bit length: 26 	 Run time: 7.660371252801269
+Bit length: 27 	 Run time: 14.000012015923858
+Bit length: 28 	 Run time: 34.48817238397896
+Bit length: 29 	 Run time: 65.11005365476012
+Bit length: 30 	 Run time: 95.86314425105229
+Bit length: 31 	 Run time: 204.97519172681496
+Bit length: 32 	 Run time: 929.759030001238
+
+New test done with time limit: 1s
+Bit length: 16 	 Run time: 0.006964936386793852
+Bit length: 17 	 Run time: 0.013655755203217268
+Bit length: 18 	 Run time: 0.03056000219658017
+Bit length: 19 	 Run time: 0.05206380691379309
+Bit length: 20 	 Run time: 0.07888035802170634
+Bit length: 21 	 Run time: 0.23807015595957637
+Bit length: 22 	 Run time: 0.44279559422284365
+Bit length: 23 	 Run time: 0.6559144547209144
+Bit length: 24 	 Run time: 1.6721165189519525
+
+New test done with time limit: 1s
+Bit length: 16 	 Run time: 0.005567618180066347
+Bit length: 17 	 Run time: 0.012024898082017899
+Bit length: 18 	 Run time: 0.02068833215162158
+Bit length: 19 	 Run time: 0.05712777795270085
+Bit length: 20 	 Run time: 0.11043800786137581
+Bit length: 21 	 Run time: 0.23841407522559166
+Bit length: 22 	 Run time: 0.42326188227161765
+Bit length: 23 	 Run time: 0.7367225289344788
+Bit length: 24 	 Run time: 1.693676054943353
+
+New test done with time limit: 1s
+Bit length: 16 	 Run time: 0.006154726259410381
+Bit length: 17 	 Run time: 0.019220481161028147
+Bit length: 18 	 Run time: 0.027485453989356756
+Bit length: 19 	 Run time: 0.04224121570587158
+Bit length: 20 	 Run time: 0.1410782439634204
+Bit length: 21 	 Run time: 0.1533232838846743
+Bit length: 22 	 Run time: 0.40375103196129203
+Bit length: 23 	 Run time: 0.831802801694721
+Bit length: 24 	 Run time: 2.063792406115681
+
+New test done with time limit: 1s
+Bit length: 16 	 Run time: 0.0056290291249752045
+Bit length: 17 	 Run time: 0.01236592885106802
+Bit length: 18 	 Run time: 0.01916115079075098
+Bit length: 19 	 Run time: 0.04067134065553546
+Bit length: 20 	 Run time: 0.09591089794412255
+Bit length: 21 	 Run time: 0.1660432480275631
+Bit length: 22 	 Run time: 0.3159997509792447
+Bit length: 23 	 Run time: 1.068440644070506
+
+New test done with time limit: 1s
+Bit length: 16 	 Run time: 0.006703851744532585
+Bit length: 17 	 Run time: 0.013194568920880556
+Bit length: 18 	 Run time: 0.0281377830542624
+Bit length: 19 	 Run time: 0.05112950364127755
+Bit length: 20 	 Run time: 0.08263162802904844
+Bit length: 21 	 Run time: 0.25750428391620517
+Bit length: 22 	 Run time: 0.4384899507276714
+Bit length: 23 	 Run time: 0.7316642832010984
+Bit length: 24 	 Run time: 1.9930883930064738
+
