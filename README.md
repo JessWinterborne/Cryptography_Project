@@ -1,3 +1,3 @@
 # Crytography_Project
  
-My cryptography university project for my first programming module in year 2. 
+A group cryptography project for my 1st year 'Mathematical Programming' university unit. 
